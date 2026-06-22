@@ -10,14 +10,10 @@ I led the development of management and e-commerce platforms, standardizing visu
 * **E-commerce Solutions Development (Featured Projects): WordPress/WooCommerce Specialist**
 Comprehensive implementation of online stores, focused on optimizing purchase flows, integrating payment gateways (Wompi), and strategically improving conversion rates.
 
-* **Automation and AI Consulting (Independent Projects): Full Stack Developer**
-Design and deployment of scalable web solutions and automation of operational workflows using n8n, Python, and the strategic use of AI models such as Gemini and Claude.
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+* **Automation and AI Consulting (Independent Projects): Full Stack Developer**
+Design and deployment of scalable web solutions and automation of operational workflows using n8n, Python, and the strategic use of AI models such as Gemini and Claude.
  
 ## 🚀 What can I build for you?
 
