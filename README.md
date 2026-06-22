@@ -1,4 +1,4 @@
-<h1 align="center">Carlos Alfaro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi I'm Carlos Alfaro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 Soy **Ingeniero de Software** apasionado por transformar requerimientos complejos en soluciones digitales de alto impacto. Mi enfoque combina la ingeniería de software con el diseño centrado en el usuario (UX/UI) y la automatización inteligente para optimizar procesos y resultados comerciales.
 
 ## 💼 Experiencia Laboral
