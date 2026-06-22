@@ -16,13 +16,9 @@ Comprehensive implementation of online stores, focused on optimizing purchase fl
 Design and deployment of scalable web solutions and automation of operational workflows using n8n, Python, and the strategic use of AI models such as Gemini and Claude.
  
 ## 🚀 What can I build for you?
-
 * Scalable and dynamic web applications.
-
 * Optimized e-commerce platforms focused on sales.
-
 * Professional UI/UX prototypes.
-
 * Operational automation systems.
 
 
