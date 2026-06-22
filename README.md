@@ -1,24 +1,27 @@
 <h1 align="center">Hi I'm Carlos Alfaro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
-Soy **Ingeniero de Software** apasionado por transformar requerimientos complejos en soluciones digitales de alto impacto. Mi enfoque combina la ingeniería de software con el diseño centrado en el usuario (UX/UI) y la automatización inteligente para optimizar procesos y resultados comerciales.
+I am a **Software Engineer** passionate about transforming complex requirements into high-impact digital solutions. My approach combines software engineering with user-centered design (UX/UI) and intelligent automation to optimize processes and business results.
 
-## 💼 Experiencia Laboral
+## 💼 Work Experience
 
-* **Proingelectric SAS (2025 – Presente): Desarrollador Web y Consultor en Desarrollo de Software**
-  Lideré el desarrollo de plataformas de gestión y E-commerce, estandarizando arquitecturas visuales en Figma y optimizando la experiencia de usuario (UX) para potenciar la conversión.
+* **Proingelectric SAS (2025 – Present): Web Developer and Software Development Consultant**
+I led the development of management and e-commerce platforms, standardizing visual architectures in Figma and optimizing the user experience (UX) to boost conversion.
 
-* **Desarrollo de Soluciones E-commerce (Proyectos destacados): Especialista en WordPress/WooCommerce**
-  Implementación integral de tiendas en línea, enfocadas en la optimización de flujos de compra, integración de pasarelas de pago (Wompi) y mejora estratégica de la tasa de conversión.
+* **E-commerce Solutions Development (Featured Projects): WordPress/WooCommerce Specialist**
+Comprehensive implementation of online stores, focused on optimizing purchase flows, integrating payment gateways (Wompi), and strategically improving conversion rates.
 
-* **Consultoría en Automatización e IA (Proyectos Independientes): Desarrollador Full Stack**
-  Diseño y despliegue de soluciones web escalables y automatización de flujos operativos mediante n8n, Python y el uso estratégico de modelos de IA como Gemini y Claude.
+* **Automation and AI Consulting (Independent Projects): Full Stack Developer**
+Design and deployment of scalable web solutions and automation of operational workflows using n8n, Python, and the strategic use of AI models such as Gemini and Claude.
 
-## 🚀 ¿Qué puedo construir para ti?
+## 🚀 What can I build for you?
 
-* Aplicaciones web escalables y dinámicas.
-* E-commerce optimizados enfocados en ventas.
-* Prototipos de UI/UX profesionales.
-* Sistemas de automatización operativa.
+* Scalable and dynamic web applications.
+
+* Optimized e-commerce platforms focused on sales.
+
+* Professional UI/UX prototypes.
+
+* Operational automation systems.
 
 
 ## 🌐 Socials:
