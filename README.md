@@ -4,18 +4,17 @@ I am a **Software Engineer** passionate about transforming complex requirements 
 
 ## 💼 Work Experience
 
-* **Proingelectric SAS (01/2025 - 12/2025):**
-* **Web Developer and Software Development Consultant**
-I led the development of management and e-commerce platforms, standardizing visual architectures in Figma and optimizing the user experience (UX) to boost conversion.
+* **Proingelectric SAS (01/2025 – 03/2025): Web Developer**
+  Led the development of management and E-commerce platforms, standardizing visual architectures in Figma and optimizing user experience (UX) to boost conversion rates.
 
-* **E-commerce Solutions Development (Featured Projects): WordPress/WooCommerce Specialist**
-Comprehensive implementation of online stores, focused on optimizing purchase flows, integrating payment gateways (Wompi), and strategically improving conversion rates.
+* **Proingelectric SAS (04/2025 – 07/2025): Software Development Consultant**
+  Responsible for technical strategy, optimization of operational processes, and consulting for the improvement of the organization's digital infrastructure.
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-* **Automation and AI Consulting (Independent Projects): Full Stack Developer**
-Design and deployment of scalable web solutions and automation of operational workflows using n8n, Python, and the strategic use of AI models such as Gemini and Claude.
- 
+* **E-commerce Solutions (08/2025 – 12/2025): WordPress/WooCommerce Specialist**
+  Integral implementation of online stores, focused on optimizing purchasing flows, integrating payment gateways (Wompi), and strategically improving sales conversion rates.
+  
 ## 🚀 What can I build for you?
 * Scalable and dynamic web applications.
 * Optimized e-commerce platforms focused on sales.
