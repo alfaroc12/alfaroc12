@@ -4,7 +4,8 @@ I am a **Software Engineer** passionate about transforming complex requirements 
 
 ## 💼 Work Experience
 
-* **Proingelectric SAS (01/2025 - 12/2025): Web Developer and Software Development Consultant**
+* **Proingelectric SAS (01/2025 - 12/2025):**
+* **Web Developer and Software Development Consultant**
 I led the development of management and e-commerce platforms, standardizing visual architectures in Figma and optimizing the user experience (UX) to boost conversion.
 
 * **E-commerce Solutions Development (Featured Projects): WordPress/WooCommerce Specialist**
